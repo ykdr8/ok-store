@@ -1,3 +1,7 @@
+**This package is no longer maintained.**
+
+----
+
 # ok-store
 
 [![Build Status](https://travis-ci.org/ykdr2017/ok-store.svg?branch=master)](https://travis-ci.org/ykdr2017/ok-store)
